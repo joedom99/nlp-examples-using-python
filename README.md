@@ -13,6 +13,8 @@ This repository contains the Python code examples from my article
 It walks through NLP from the basics (tokenization, TF-IDF) to modern transformer-based models  
 (Sentence Transformers, DistilBART summarization, RAG, AI Agents, and more) using practical marketing-style examples.
 
+Here's a link to the article - https://blog.marketingdatascience.ai/a-marketers-guide-to-nlp-how-machines-actually-process-and-understand-language-3d452febb3de
+
 ---
 
 ## 🚀 What This Project Covers
