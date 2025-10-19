@@ -6,6 +6,8 @@
 [![NLTK](https://img.shields.io/badge/NLTK-Tokenization%2FStopwords-green.svg)]()  
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)]()
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16JiEB82AvU6o7giGbxW1GTuqFE2r9b9n?usp=sharing)
+
 This repository contains the Python code examples from my article  
 **“A Marketer’s Guide to NLP: How Machines Actually Process and Understand Language.”**  
 It walks through NLP from the basics (tokenization, TF-IDF) to modern transformer-based models  
